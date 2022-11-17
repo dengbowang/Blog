@@ -43,4 +43,4 @@ iframe 参数
 allowfullscreen="allowfullscreen" #移动端全屏    
 sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" #禁止弹出网页
 ```
-<iframe src="//player.bilibili.com/player.html?aid=251643277&bvid=BV1av411M7XG&cid=441250782&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%"> </iframe> 
+<iframe src="//player.bilibili.com/player.html?aid=251643277&bvid=BV1av411M7XG&cid=441250782&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%"scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="100%"> </iframe> 
