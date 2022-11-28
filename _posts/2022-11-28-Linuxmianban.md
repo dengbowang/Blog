@@ -1,3 +1,16 @@
+---
+
+layout:       post
+title:        "Linux主机运维面板（web可视化管理工具）"
+author:       "dengbowang"
+header-style: text
+catalog:      true
+tags:
+    - Linux
+    - web
+
+---
+
 # **inux主机运维面板（web可视化管理工具）**
 
 ![img](https://img-blog.csdnimg.cn/img_convert/3da5f9e4b86cbf4b7b35b76867850d28.png)
